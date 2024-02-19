@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Feb 14 18:25:30 2024 
+Best design point: 1
+Design specs: 
+	Mini_Project_1_testbench_1_1	corner	Nominal - 
+	Zin		Error	No
+	Differential_SSF_Output		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 2
+ExplorerRun.0 completed. 
+Current time: Wed Feb 14 18:25:41 2024 
