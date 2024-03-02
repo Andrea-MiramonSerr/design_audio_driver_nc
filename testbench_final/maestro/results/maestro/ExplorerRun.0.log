@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Feb 20 00:33:04 2024 
+Best design point: 1
+Design specs: 
+	Mini_Project_1_testbench_final_1	corner	Nominal - 
+	v /net15; ac mag(V)		Error	No
+	v /net13; ac mag(V)		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 2
+ExplorerRun.0 completed. 
+Current time: Tue Feb 20 00:33:14 2024 
