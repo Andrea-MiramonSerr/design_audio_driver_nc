@@ -81,18 +81,6 @@
 					<var>inv_fing
 						<value>1</value>
 					</var>
-					<var>M1
-						<value></value>
-					</var>
-					<var>M_diffpair1
-						<value></value>
-					</var>
-					<var>R_bias
-						<value></value>
-					</var>
-					<var>tran_signal_amp
-						<value></value>
-					</var>
 				</vars>
 				<origoptions>
 					<option>cell

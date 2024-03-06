@@ -5,12 +5,12 @@
 #
 LockStakeVersion               1.1
 LoginName                      kp576
-HostName                       en-ec-ecelinux-02.coecis.cornell.edu
-ProcessIdentifier              58060
-ProcessCreationTime_UTC        1709743699
-ProcessCreationTime_Readable   Wed Mar  6 11:48:19 2024 EST
+HostName                       en-ec-ecelinux-12.coecis.cornell.edu
+ProcessIdentifier              62607
+ProcessCreationTime_UTC        1709419658
+ProcessCreationTime_Readable   Sat Mar  2 17:47:38 2024 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/kp576/ece4530/design_audio_driver_nc/testbench_final/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Mar  6 11:50:36 2024 EST
+TimeEditLocked                 Sat Mar  2 18:33:56 2024 EST
